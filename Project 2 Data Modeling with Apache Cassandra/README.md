@@ -81,7 +81,7 @@ Files in this repository:
 Clone the repository into a local machine using
 
 ```sh
-git clone git clone https://github.com/wggamboaa/Data-Engineer-Udacity-Nanodegree
+git clone https://github.com/wggamboaa/Data-Engineer-Udacity-Nanodegree
 ```
 
 ### Prerequisites
