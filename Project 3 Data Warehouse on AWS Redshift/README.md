@@ -5,7 +5,7 @@
 
 <p align="center">
  <a href="https://github.com/wggamboaa/Data-Engineer-Udacity-Nanodegree">
-  <img src="./images/cassandralogo.png" alt="Logo" width="200" height="200">
+  <img src="./images/awslogo.png" alt="Logo" width="200" height="200">
  </a>
  <h3 align="center">Data Warehouses with AWS Redshift</h3>
  <p align="center">
@@ -115,21 +115,6 @@ Follow the steps to extract and load the data into the data model.
 1. We can create our Redshift cluster or run the CREATE_CLUSTER.py file
 
 2. Configure the dwh.cfg file
-
-    [CLUSTER]
-    HOST=
-    DB_NAME=
-    DB_USER=
-    DB_PASSWORD=
-    DB_PORT=
-
-    [IAM_ROLE]
-    ARN=''
-
-    [S3]
-    LOG_DATA='s3://udacity-dend/log_data'
-    LOG_JSONPATH='s3://udacity-dend/log_json_path.json'
-    SONG_DATA='s3://udacity-dend/song_data'
 
 3. Create and load data run "python create_tables.py".
 
