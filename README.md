@@ -72,15 +72,6 @@ In this Capstone project, students will define the scope of the project and the 
 
 Capstone Project can be found [here](./Project%206%20Capstone%20Project).
 
- 
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 
