@@ -42,9 +42,9 @@ During this program,  we will complete four courses and five projects. Throughou
 
 In this course,  we will learn to create relational and NoSQL data models to fit the diverse needs of data consumers. In the project,  we will build SQL (Postgres) and NoSQL (Apache Cassandra) data models using user activity data for a music streaming app.
 
-Project 1 can be found [here](./Project%1%Data%Modeling%with%PostgreSQL). 
+Project 1 can be found [here](./Project 1 Data Modeling with PostgreSQL). 
 
-Project 2 can be found [here](./Project%2%Data%Modeling%with%Apache%Cassandra).
+Project 2 can be found [here](./Project 2 Data Modeling with Apache Cassandra).
 
 #### **Course 2 – Cloud Data Warehouses**
 
