@@ -86,7 +86,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Vineeth S - wgamboa1993@gmail.com
+WIlliams Gamboa - https://www.linkedin.com/in/wgamboa-data/
 
 Project Link: [https://github.com/wggamboaa/Data-Engineer-Udacity-Nanodegree](https://github.com/wggamboaa/Data-Engineer-Udacity-Nanodegree)
 
