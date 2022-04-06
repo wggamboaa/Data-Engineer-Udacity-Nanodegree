@@ -82,7 +82,7 @@ Files in this repository:
 |    test.ipynb    |                Exploring the database tables                 |
 |    etl.ipynb     | Reads and processes a single file from song_data and log_data and loads the data into your tables. This notebook contains detailed instructions on the ETL process for each of the tables. |
 |    etl.py        | Reads and processes files from song_data and log_data and loads them into your tables. You can fill this out based on your work in the ETL notebook. |
-|    README.md     | Provides discussion on your project                          |
+|    README.md     | Provides discussion on your project.                          |
 
 <!-- GETTING STARTED -->
 
