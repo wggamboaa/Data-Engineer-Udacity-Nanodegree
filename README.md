@@ -42,11 +42,9 @@ During this program,  we will complete four courses and five projects. Throughou
 
 In this course,  we will learn to create relational and NoSQL data models to fit the diverse needs of data consumers. In the project,  we will build SQL (Postgres) and NoSQL (Apache Cassandra) data models using user activity data for a music streaming app.
 
-Associated notebooks for this course can be found [here](./Notebook%20Exercises).
+Project 1 can be found [here](./Project%1%Data%Modeling%with%PostgreSQL). 
 
-Project 1 can be found [here](./Project%201%20Data%20Modeling%20with%20PostgreSQL). 
-
-Project 2 can be found [here](./Project%202%20Data%20Modeling%20with%20Apache%20Cassandra). 
+Project 2 can be found [here](./Project%2%Data%Modeling%with%Apache%Cassandra).
 
 #### **Course 2 – Cloud Data Warehouses**
 
@@ -54,7 +52,7 @@ In this course,  we will learn to create cloud-based data warehouses. In the pro
 
 Associated notebooks for this course can be found [here](./Notebook%20Exercises). 
 
-Project 3 can be found [here](./Project%203%20Data%20Warehouse%20on%20AWS%20Redshift). 
+Project 3 can be found [here](./Project%23%20Data%20Warehouse%20on%20AWS%20Redshift). 
 
 #### **Course 3 – Data Lakes with Apache Spark**
 
@@ -62,7 +60,7 @@ In this course,  we will learn more about the big data ecosystem, how to work wi
 
 Associated notebooks for this course can be found [here](./Notebook%20Exercises).
 
-Project 4 can be found [here](./Project%204%20Data%20Lake%20on%20AWS%20S3). 
+Project 4 can be found [here](./Project%24%20Data%20Lake%20on%20AWS%20S3). 
 
 #### **Course 4 – Data Pipelines with Apache Airflow**
 
@@ -70,13 +68,13 @@ In this course,  we will learn to schedule, automate, and monitor data pipelines
 
 Associated notebooks for this course can be found [here](./Notebook%20Exercises).
 
-Project 5 can be found [here](./Project%205%20Data%20Pipelines%20with%20Apache%20Airflow). 
+Project 5 can be found [here](./Project%25%20Data%20Pipelines%20with%20Apache%20Airflow). 
 
 #### **Capstone Project**
 
 In the Capstone project, we combine [Twitter](https://www.twitter.com) data, [World happiness index](https://www.kaggle.com/unsdsn/world-happiness) data and [Earth surface temperature data](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data) data to explore whether there is any correlation between the above. The Twitter data is dynamic and the other two dataset are static in nature. The general idea of this project is to extract Twitter data, analyze  its sentiment and use the resulting data to gain insights with the other datasets. 
 
-Capstone Project can be found [here](./Project%206%20Capstone%20Project).
+Capstone Project can be found [here](./Project%6%20Capstone%20Project).
 
  
 
