@@ -86,10 +86,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Vineeth S - vs96codes@gmail.com
+Vineeth S - wgamboa1993@gmail.com
 
-Project Link: [https://github.com/vineeths96/Data-Engineering-Nanodegree](https://github.com/vineeths96/Data-Engineering-Nanodegree)
-
+Project Link: [https://github.com/wggamboaa/Data-Engineer-Udacity-Nanodegree](https://github.com/wggamboaa/Data-Engineer-Udacity-Nanodegree)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
