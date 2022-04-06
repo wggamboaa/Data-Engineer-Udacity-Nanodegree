@@ -69,10 +69,6 @@ Sample Record :
 
 The Star Database Schema used for data modeling in this ETL pipeline. There is one fact table containing all the metrics (facts) associated to each event (user actions), and four dimensions tables, containing associated information such as user name, artist name, song meta-data etc. This model enables to search the database schema with the minimum number of  *SQL JOIN*s possible and enable fast read queries. The amount of data we need to analyze is not big enough to require big data solutions or NoSQL databases.
 
-An entity relationship diagram (ERD) of the data model is given below. 
-
-![database](./images/database.png)
-
 ## Project structure
 
 Files in this repository:
