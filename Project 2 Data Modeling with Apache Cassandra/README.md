@@ -9,7 +9,7 @@
  </a>
  <h3 align="center">Data Modeling ETL with PostgreSQL</h3>
  <p align="center">
-  Udacity Nanodegree Course Project 1
+  Udacity Nanodegree Course Project 2
   <br />
   <a href=https://github.com/wggamboaa/Data-Engineer-Udacity-Nanodegree><strong>Explore the repository»</strong></a>
   <br />
