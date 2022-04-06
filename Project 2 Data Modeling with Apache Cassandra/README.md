@@ -7,7 +7,7 @@
  <a href="https://github.com/wggamboaa/Data-Engineer-Udacity-Nanodegree">
   <img src="./images/cassandralogo.png" alt="Logo" width="200" height="200">
  </a>
- <h3 align="center">Data Modeling ETL with PostgreSQL</h3>
+ <h3 align="center">Data Modeling ETL with Apache Cassandra</h3>
  <p align="center">
   Udacity Nanodegree Course Project 2
   <br />
